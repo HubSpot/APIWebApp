@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <% include ../helpers/head %>
+</head>
+
+<body>
+  <!-- the classes 'page-header' and 'btn btn-dark' create bootstrap components.  -->
+  <!-- Check out more components here: http://getbootstrap.com/components/ -->
+  <div class="page-header">
+
+  
+    <h1>Let's Get the Weather</h1>
+  </div>
+
+  <div class="weather container">
+    <input class="search form-control" type="text" placeholder="Search for the weather in any city...">
+    <button class="btn btn-dark" onclick="searchWeather()">Search</button>
+
+    <div class="city"></div>
+    <div class="temp"></div>
+
+    <div class="error-message"></div>
+  </div>
+  
+</body>
+
+</html>

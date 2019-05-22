@@ -1,0 +1,43 @@
+
+body {
+  font-family: Arial, serif;
+  text-align: center;
+  color: #343a40;
+  font-size: 22px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  margin-top: 40px;
+  font-size: 48px;
+}
+
+.page-header {
+  background-color: #00bda5;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  color: #ffffff;
+}
+
+.weather {
+  margin-top: 80px;
+}
+
+.search {
+  width: 350px;
+  display: inline-block;
+  margin-bottom: 60px;
+}
+
+button {
+  display: inline-block;
+}
+
+.temp {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #00a38d;
+  display: inline-block;
+  margin-top: 10px;
+}
