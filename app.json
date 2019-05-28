@@ -1,7 +1,7 @@
 {
-  "name": "Build Your First Webapp",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "",
+  "name": "API Web App",
+  "description": "A sample app demonstrating how to integrate external web APIs into your app",
+  "repository": "https://github.com/HubSpot/APIWebApp",
   "logo": "",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
