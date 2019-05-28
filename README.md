@@ -202,5 +202,5 @@ Congratulations! You’ve integrated an API into your application — one that y
 Building web apps is about trial and error. If something’s not working for you, Google it! Chances are, other people have run into exactly the same issues that you have. 
 
 ## Additional Resources
-More information on APIs: https://en.wikipedia.org/wiki/Application_programming_interface
-An in-depth look at HTTP methods: http://www.tutorialspoint.com/http/http_methods.htm
+- More information on APIs: https://en.wikipedia.org/wiki/Application_programming_interface
+- An in-depth look at HTTP methods: http://www.tutorialspoint.com/http/http_methods.htm
