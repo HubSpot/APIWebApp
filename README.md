@@ -88,6 +88,8 @@ Next, for security reasons, let’s make sure that Heroku knows your API key wit
 ```
   heroku config:set API_KEY=WhateverYourAPIKeyIs
 ```
+_Remember that you must stop your server in order to do this. If your server is still running from before, you can press control + c to halt it._
+
 Next, save that API key variable locally in a file named `.env`. This file will never be pushed to Github or Heroku; the web app will read from this file locally, and will pull it from Heroku's own configuration system once deployed. This way, you can use `API_KEY` in your local environment and on Heroku without actually having it in your code. To do that, run: 
 ```
   heroku config:get API_KEY -s >> .env
