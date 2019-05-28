@@ -71,7 +71,7 @@ The success handler function will get called when the request goes smoothly and 
 
 With this information, you now have enough baseline knowledge on APIs to start using them.
 
-## Adding the OpenWeatherMap API
+## Part 1: Adding the OpenWeatherMap API
 
 With a working knowledge of APIs, let’s dive into reading API documentation, setting up your environment variables, and making API calls to retrieve data and display it in your web app.
 
@@ -156,7 +156,7 @@ Copy that line and do the same for the temperature, changing the class name to `
 
 Save your work, then go back to your app and refresh the page. There you go — you should see the city name and temperature displayed on the page. 
 
-## Exploring more advanced API techniques 
+## Part 2: Exploring more advanced API techniques 
 
 Now, you’ll take your API calls one step further by letting your users search for the weather in any city. 
 
